@@ -6,6 +6,9 @@ var main = function () {
 	// Accordion Function
 	$('#accordion').accordion();
 
+	// Unslider
+	$('.banner').unslider();
+
 }
 
 $(document).ready(main);
