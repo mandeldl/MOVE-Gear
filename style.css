@@ -104,6 +104,11 @@ body {
   padding: 1px 0;
 }
 
+.ui-accordion-content li:hover,
+.footer a:hover {
+    background: #ffa800;
+}
+
 /* Supporting */
 .supporting {
   background-color: #1c1c1c;
